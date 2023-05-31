@@ -10,7 +10,7 @@ It is merely cosmetic and wlil fix itself once the animations are complete.
 
 # Examples:
 
-Vanilla, note the time between lock-on and engaged:
+Vanilla, note the time between lock-on and the time weapons come out:
 https://github.com/WinterSolstice8/nolock/assets/60417494/a807a707-df13-4957-bbb4-1c76c87fab4d
 
 
