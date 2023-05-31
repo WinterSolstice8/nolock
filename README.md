@@ -7,3 +7,13 @@ Credit to the original ASM patch is unknown to me.
 # Known issues
 There may be some slight disconnect to where your weapon is located compared to your hand when engaging/disengaging depending on race & weapon type.
 It is merely cosmetic and wlil fix itself once the animations are complete.
+
+# Examples:
+
+Vanilla, note the time between lock-on and engaged:
+https://github.com/WinterSolstice8/nolock/assets/60417494/a807a707-df13-4957-bbb4-1c76c87fab4d
+
+
+With nolock:
+https://github.com/WinterSolstice8/nolock/assets/60417494/12e99ed1-d324-46a2-bba9-accb42aaaf98
+
